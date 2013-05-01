@@ -1,4 +1,4 @@
 ACM
 ===
 
-Programs creadted for ACM International Collegiate Programming Competition 
+Programs created for ACM International Collegiate Programming Competition 
